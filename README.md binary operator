@@ -1,0 +1,7 @@
+It initializes two variables, `a` with a value of 8 and `b` with a value of 3.
+The program then performs the following operations:
+Addition: `a + b` and prints the result.
+Subtraction: `a - b` and prints the result.
+ Multiplication: `a * b` and prints the result.
+ Division: `a / b` and prints the result.
+ Modulo: `a % b` (remainder of `a` divided by `b`) and prints the result.
