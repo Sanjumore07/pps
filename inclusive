@@ -1,0 +1,6 @@
+The C++ program prompts the user to enter a number.
+It reads the input number and stores it in the variable 'num'.
+The program checks if the entered number is between 10 and 20 (inclusive) using the logical AND operator (&&).
+If the condition (num >= 10 && num <= 20) is met, it outputs that the number is between 10 and 20.
+If the number does not satisfy the condition, the program outputs that the number is not between 10 and 20.
+Finally, the program ends after displaying the result.
