@@ -1,0 +1,7 @@
+The given C++ program creates a Student class with properties like name, roll number, and age.
+It includes a method within the class to display the student's information.
+Two instances (objects) of the Student class, s1 and s2, are created in the main function.
+The properties of each student object are set with specific data.
+The displayInfo method is called to show the information of each student object.
+The program then displays the information of both students, s1 and s2, including their names, roll numbers, and ages.
+Finally, the program ends after displaying the student information.
