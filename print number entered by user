@@ -1,0 +1,5 @@
+The program includes the iostream library for input and output operations.
+The main function is defined, where an integer variable 'number' is declared.
+The program then asks the user to enter an integer.
+The user's input is stored in the 'number' variable using cin.
+Finally, the program prints out "You entered" followed by the integer that the user input.
