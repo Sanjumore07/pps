@@ -1,0 +1,6 @@
+The program requests the user to input their age by displaying "Enter your age :".
+It reads the input age provided by the user using 'cin' and stores it in the variable 'age'.
+The program then uses an 'if-else' statement to check if the entered age is greater than or equal to 18.
+If the age is 18 or older, the program outputs "you are an adult.".
+If the age is less than 18, the program outputs "you are not an adult.".
+Finally, the program returns 0, marking the end of its execution.
