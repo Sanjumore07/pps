@@ -1,0 +1,4 @@
+1. The C++ program you shared uses the conditional operator to determine the greater number between variables 'a' and 'b'.
+2. It assigns the greater value to the variable 'result' by checking if 'a' is less than 'b'. If true, 'b' is assigned to 'result'; otherwise, 'a' is assigned.
+3. The program then outputs the result by displaying "The greatest number is" followed by the value stored in the 'result' variable.
+4. Finally, the program returns 0, indicating the end of its execution.
