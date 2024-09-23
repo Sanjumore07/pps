@@ -1,0 +1,5 @@
+ The `Parent` class serves as the base class with a member `id_p` and a method `printID_p()` to print the base ID.
+The `Child` class publicly inherits from the `Parent` class, adding its own member `id_c` and a method `printID_c()` to print the child ID.
+In the `main()` function, an object `obj1` of the `Child` class is created.
+The object `obj1` can access both the base class (`Parent`) members and methods due to inheritance.
+The program sets the `id_p` and `id_c` values for the `obj1` object and then calls the respective print methods to display the IDs.
