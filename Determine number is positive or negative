@@ -1,0 +1,6 @@
+ It asks the user to input a number.
+It reads the user's input into the variable 'number'.
+It checks if the input number is greater than or equal to 0.
+If the number is greater than or equal to 0, it prints a message stating that the number is positive.
+If the number is less than 0, it prints a message stating that the number is negative.
+The program then concludes by returning 0, marking the end of its execution.
