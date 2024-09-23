@@ -1,0 +1,5 @@
+The program uses the equal to operator '==' to check if 'a' is equal to 'b'.
+It then uses the greater than operator '>' to determine if 'a' is greater than 'b'.
+Next, the program employs the greater than or equal to operator '>=' to check if 'a' is greater than or equal to 'b'.
+I also showcases the lesser than operator '<' to verify if 'a' is less than 'b'.
+Furthermore, the program uses the lesser than or equal to operator '<=' to ascertain if 'a' is less than or equal to 'b'.
